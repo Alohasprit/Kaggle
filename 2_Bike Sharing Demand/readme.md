@@ -2,6 +2,6 @@
 
 ![1](./image/bike_sharing#1)
 
-![2](./image/bike_sharing#1)
+![2](./image/bike_sharing#2)
 
-![3](./image/bike_sharing#1)
+![3](./image/bike_sharing#3)
