@@ -12,7 +12,6 @@ In this competition, you’re challenged to analyze a Google Merchandise Store (
 
 Submissions are scored on the root mean squared error. RMSE is defined as:
 
-RMSE=1n∑i=1n(yi−ŷ i)2‾‾‾‾‾‾‾‾‾‾‾‾‾‾⎷,
 where y hat is the predicted revenue for a customer and y is the natural log of the actual revenue value.
 
 **Submission File**
