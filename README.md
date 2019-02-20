@@ -1,2 +1,2 @@
 # Kaggle
-Kaggle_Study
+Kaggle_exercise
